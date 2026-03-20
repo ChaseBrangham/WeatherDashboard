@@ -79,7 +79,3 @@ class WeatherDataManager:
         print("CITY", city)
         return city
 
-
-
-
-
